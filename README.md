@@ -1,3 +1,12 @@
+# 👋 Hi, my name is Andrew Long
+
+## 💡 About Me
+From a young age, I’ve been fascinated by technology. I started building computers as a teenager, which quickly showed me that I was cut out for a career in tech. That early curiosity has grown into a passion for software engineering and problem solving.
+
+Outside of tech, discipline has always been a big part of who I am. I began exercising consistently in my teenage years and have stuck with it ever since. Whether it’s fitness, line dancing, or software development, I dedicate myself fully and always strive to perform at my best.
+
+I’m excited to keep growing my skills, building impactful projects, and collaborating with others who share a passion for technology and innovation.
+
 ## 🚀 Skills
 
 ### Object-Oriented Programming
